@@ -84,3 +84,59 @@
   }
 
 ]
+
+movies.add(new Movie("Forrest Gump","USA","1994"
+          ,"https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+           ,"http://24.80.132.186:5080/LiveApp/streams/943529736040674356086635.mp4"));
+
+        movies.add(new Movie("The Hunt For Red October","USA","1990"
+                ,"https://upload.wikimedia.org/wikipedia/en/3/36/The_Hunt_for_Red_October_movie_poster.png"
+                ,"http://24.80.132.186:5080/LiveApp/streams/292243725218634389975681.mp4"));
+
+        movies.add(new Movie("Basic Instinct","USA","1992"
+                ,"https://upload.wikimedia.org/wikipedia/en/f/f9/Basic_Instinct.png"
+                ,"http://24.80.132.186:5080/LiveApp/streams/311489747735807117501575.mp4"));
+
+        movies.add(new Movie("Taxi Driver","USA","1976"
+                ,"https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/315269315076293033779979.mp4"));
+
+        movies.add(new Movie("The Graduate","USA","1967"
+                ,"https://upload.wikimedia.org/wikipedia/en/8/8b/Graduateposter67.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/405104469153085399992694.mp4"));
+
+        movies.add(new Movie("Gladiator","USA","2000"
+                ,"https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
+                ,"http://24.80.132.186:5080/LiveApp/streams/406811181425614215788847.mp4"));
+
+        movies.add(new Movie("L.A. Confidential ","USA","1997"
+                ,"https://upload.wikimedia.org/wikipedia/en/d/d8/La_confidential.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/429179710124139356287663.mp4"));
+
+        movies.add(new Movie("English Patient","USA","1996"
+                ,"https://upload.wikimedia.org/wikipedia/en/b/bd/The_English_Patient_Poster.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/436869735284621868902054.mp4"));
+
+        movies.add(new Movie("The Time Traveler's Wife","USA","2009"
+                ,"https://upload.wikimedia.org/wikipedia/en/5/50/The_Time_Traveler%27s_Wife_film_poster.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/737355319772302513295784.mp4"));
+
+        movies.add(new Movie("Interstellar","USA","2014"
+                ,"https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/852290897963706421457908.mp4"));
+
+        movies.add(new Movie("Crossing Over","USA","2009"
+                ,"https://upload.wikimedia.org/wikipedia/en/8/83/Crossing_Over_%28film%29_cover.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/867299274270910568851049.mp4"));
+
+        movies.add(new Movie("Pretty Woman","USA","1990"
+                ,"https://upload.wikimedia.org/wikipedia/en/b/b6/Pretty_woman_movie.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/925416078002761510109214.mp4"));
+
+        movies.add(new Movie("Air Force One","USA","1997"
+                ,"https://upload.wikimedia.org/wikipedia/en/2/2a/Air_Force_One_%28movie_poster%29.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/967534068330109063229364.mp4"));
+
+        movies.add(new Movie("American Beauty","USA","1999"
+                ,"https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg"
+                ,"http://24.80.132.186:5080/LiveApp/streams/973441657093510476100465.mp4"));
