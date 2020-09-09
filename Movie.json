@@ -78,20 +78,26 @@
     "urlId": "http://24.80.132.186:5080/LiveApp/streams/867299274270910568851049.mp4"
   },
  {
-    "name": "",
+    "name": "Pretty Woman",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1990",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b6/Pretty_woman_movie.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/925416078002761510109214.mp4"
   },
  {
-    "name": "",
+    "name": "Air Force One",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1997",
+    "poster":"https://upload.wikimedia.org/wikipedia/en/2/2a/Air_Force_One_%28movie_poster%29.jpg",
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/967534068330109063229364.mp4"
+  },
+ {
+    "name": "American Beauty",
+    "country": "USA",
+    "year": "1999",
+    "poster":"https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg",
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/973441657093510476100465.mp4
   }
-
 ]
 
 
@@ -100,22 +106,9 @@
 
        
        
-       
+  
        
       
       
         
-       
-       
-
-        movies.add(new Movie("Pretty Woman","USA","1990"
-                ,"https://upload.wikimedia.org/wikipedia/en/b/b6/Pretty_woman_movie.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/925416078002761510109214.mp4"));
-
-        movies.add(new Movie("Air Force One","USA","1997"
-                ,"https://upload.wikimedia.org/wikipedia/en/2/2a/Air_Force_One_%28movie_poster%29.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/967534068330109063229364.mp4"));
-
-        movies.add(new Movie("American Beauty","USA","1999"
-                ,"https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/973441657093510476100465.mp4"));
+  
