@@ -8,32 +8,32 @@
   },
 
  {
-    "name": "",
+    "name": "The Hunt For Red October",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1990",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Hunt_for_Red_October_movie_poster.png", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/292243725218634389975681.mp4"
   },
 {
-    "name": "",
+    "name": "Basic Instinct",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1992",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Basic_Instinct.png", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/311489747735807117501575.mp4"
   },
  {
-    "name": "",
+    "name": "Taxi Driver",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1976",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/315269315076293033779979.mp4"
   },
  {
-    "name": "",
+    "name": "The Graduate",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1967",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/Graduateposter67.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/405104469153085399992694.mp4"
   },
  {
     "name": "",
@@ -94,26 +94,13 @@
 
 ]
 
-movies.add(new Movie("Forrest Gump","USA","1994"
-          ,"https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
-           ,"http://24.80.132.186:5080/LiveApp/streams/943529736040674356086635.mp4"));
 
-        movies.add(new Movie("The Hunt For Red October","USA","1990"
-                ,"https://upload.wikimedia.org/wikipedia/en/3/36/The_Hunt_for_Red_October_movie_poster.png"
-                ,"http://24.80.132.186:5080/LiveApp/streams/292243725218634389975681.mp4"));
 
-        movies.add(new Movie("Basic Instinct","USA","1992"
-                ,"https://upload.wikimedia.org/wikipedia/en/f/f9/Basic_Instinct.png"
-                ,"http://24.80.132.186:5080/LiveApp/streams/311489747735807117501575.mp4"));
+       
 
-        movies.add(new Movie("Taxi Driver","USA","1976"
-                ,"https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/315269315076293033779979.mp4"));
-
-        movies.add(new Movie("The Graduate","USA","1967"
-                ,"https://upload.wikimedia.org/wikipedia/en/8/8b/Graduateposter67.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/405104469153085399992694.mp4"));
-
+       
+       
+       
         movies.add(new Movie("Gladiator","USA","2000"
                 ,"https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
                 ,"http://24.80.132.186:5080/LiveApp/streams/406811181425614215788847.mp4"));
