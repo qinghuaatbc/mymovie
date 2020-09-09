@@ -36,46 +36,46 @@
     "urlId": "http://24.80.132.186:5080/LiveApp/streams/405104469153085399992694.mp4"
   },
  {
-    "name": "",
+    "name": "Gladiator",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "2000",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/406811181425614215788847.mp4"
   },
  {
-    "name": "",
+    "name": "L.A. Confidential",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1997",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d8/La_confidential.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/429179710124139356287663.mp4"
   },
   {
-    "name": "",
+    "name": "English Patient",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "1996",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_English_Patient_Poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/436869735284621868902054.mp4"
   },
  {
-    "name": "",
+    "name": "The Time Traveler's Wife",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "2009",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Time_Traveler%27s_Wife_film_poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/737355319772302513295784.mp4"
   },
  {
-    "name": "",
+    "name": "Interstellar",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "2014",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/852290897963706421457908.mp4"
   },
  {
-    "name": "",
+    "name": "Crossing Over",
     "country": "USA",
-    "year": "",
-    "poster": "", 
-    "urlId": ""
+    "year": "2009",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Crossing_Over_%28film%29_cover.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/867299274270910568851049.mp4"
   },
  {
     "name": "",
@@ -101,29 +101,12 @@
        
        
        
-        movies.add(new Movie("Gladiator","USA","2000"
-                ,"https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
-                ,"http://24.80.132.186:5080/LiveApp/streams/406811181425614215788847.mp4"));
-
-        movies.add(new Movie("L.A. Confidential ","USA","1997"
-                ,"https://upload.wikimedia.org/wikipedia/en/d/d8/La_confidential.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/429179710124139356287663.mp4"));
-
-        movies.add(new Movie("English Patient","USA","1996"
-                ,"https://upload.wikimedia.org/wikipedia/en/b/bd/The_English_Patient_Poster.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/436869735284621868902054.mp4"));
-
-        movies.add(new Movie("The Time Traveler's Wife","USA","2009"
-                ,"https://upload.wikimedia.org/wikipedia/en/5/50/The_Time_Traveler%27s_Wife_film_poster.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/737355319772302513295784.mp4"));
-
-        movies.add(new Movie("Interstellar","USA","2014"
-                ,"https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/852290897963706421457908.mp4"));
-
-        movies.add(new Movie("Crossing Over","USA","2009"
-                ,"https://upload.wikimedia.org/wikipedia/en/8/83/Crossing_Over_%28film%29_cover.jpg"
-                ,"http://24.80.132.186:5080/LiveApp/streams/867299274270910568851049.mp4"));
+       
+      
+      
+        
+       
+       
 
         movies.add(new Movie("Pretty Woman","USA","1990"
                 ,"https://upload.wikimedia.org/wikipedia/en/b/b6/Pretty_woman_movie.jpg"
