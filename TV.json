@@ -1,9 +1,24 @@
 [
     {
+    "name": "3News Now",
+    "channel": "3",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",
+    "urlId": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8"
+   },     
+    
+   {
     "name": "30A Sidewalks",
     "channel": "3",
     "image": "https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",
     "urlId": "https://30a-tv.com/sidewalks.m3u8"
+
+   }, 
+    
+    {
+    "name": "3ABN KIDS TV",
+    "channel": "3",
+    "image": "https://3abnkids.tv/img/3ABN-KIDS-LOGO.png",
+    "urlId": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"
    }, 
     
     {
