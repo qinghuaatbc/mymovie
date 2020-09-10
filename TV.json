@@ -1,5 +1,12 @@
 [
   
+{
+    "name": "Hunt Channel",
+    "channel": "3",
+    "image": "https://i.imgur.com/DkvWWbE.png",
+    "urlId": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"
+ },     
+  
   {
     "name": "InfoWars",
     "channel": "3",
