@@ -1,5 +1,12 @@
 [
     {
+    "name": "30A Sidewalks",
+    "channel": "3",
+    "image": "https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",
+    "urlId": "https://30a-tv.com/sidewalks.m3u8"
+   }, 
+    
+    {
     "name": "23 ABC",
     "channel": "3",
     "image": "https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",
