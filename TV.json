@@ -1,4 +1,21 @@
 [
+  
+{
+    "name": "Super Tennis",
+    "channel": "3",
+    "image": "https://sport-tv-guide.live/images/stations/a685.png",
+    "urlId": "https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8"
+
+   },     
+  
+  {
+    "name": "Z Living",
+    "channel": "3",
+    "image": "https://i.imgur.com/c3Z5i2L.png",
+    "urlId": "https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8"
+
+   },     
+   
   {
     "name": "Movie Kingdom",
     "channel": "3",
