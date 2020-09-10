@@ -1,6 +1,15 @@
 [
   
-{
+  {
+    "name": "OANN One America News Network",
+    "channel": "3",
+    "image": "https://i.imgur.com/G6e7Hcl.png",
+    "urlId": "http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8"
+
+   },     
+  
+    
+  {
     "name": "Super Tennis",
     "channel": "3",
     "image": "https://sport-tv-guide.live/images/stations/a685.png",
