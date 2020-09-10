@@ -1,9 +1,22 @@
 [
+    {
+    "name": "23 ABC",
+    "channel": "3",
+    "image": "https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",
+    "urlId": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8"
+  },
   {
     "name": "TVBS",
     "channel": "3",
     "image": "https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png",
     "urlId": "http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8"
+  }, 
+
+  {
+    "name": "30A Music",
+    "channel": "3",
+    "image": "https://i.imgur.com/gNWg9tl.png",
+    "urlId": "https://30a-tv.com/music.m3u8"
   },
 
   {
