@@ -97,5 +97,13 @@
     "year": "1999",
     "poster":"https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg",
     "urlId": "http://24.80.132.186:5080/LiveApp/streams/973441657093510476100465.mp4"
+  },
+  
+   {
+    "name": "牧马人",
+    "country": "CHINA",
+    "year": "1982",
+    "poster":"https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/a/a2piw138rjfqfb1.jpg",
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/311489747735807117501575.mp4"
   }
 ]
