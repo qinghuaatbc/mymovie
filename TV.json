@@ -1,6 +1,14 @@
 [
   
   {
+    "name": "InfoWars",
+    "channel": "3",
+    "image": "https://i.imgur.com/VEd3y4O.png",
+    "urlId": "https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8"
+ },     
+  
+  
+  {
     "name": "JBS",
     "channel": "3",
     "image": "https://i.imgur.com/pHJm3I0.png",
