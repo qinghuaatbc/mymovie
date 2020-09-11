@@ -3,7 +3,7 @@
 {
     "name": "Olympic Channel (US NBC)",
     "channel": "3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
+    "image": "https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png",
     "urlId": "https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8"
     },  
    
