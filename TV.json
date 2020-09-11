@@ -273,10 +273,10 @@
   },
 
   {
-    "name":"三立新聞台",
+    "name":"希望電視台",
     "channel":"3",
-    "image":"https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",
-    "urlId": "http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8"
+    "image":"https://i.imgur.com/exdDHml.png",
+    "urlId": "https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8"
 
   }
 ]
