@@ -1,6 +1,27 @@
 [
+   {
+    "name": "30A TV",
+    "channel": "3",
+    "image": "https://i.imgur.com/4TEMhxH.png",
+    "urlId": "https://30a-tv.com/my999.m3u8"
+    },  
+    
+  { 
+  {
+    "name": "30A Music",
+    "channel": "3",
+    "image": "https://i.imgur.com/gNWg9tl.png",
+    "urlId": "https://30a-tv.com/music.m3u8"
+    },  
+    
+  {
+    "name": "24/7 Retro TV",
+    "channel": "3",
+    "image": "http://www.247retro.com/images/sidebar_logo_gradient.jpg",
+    "urlId": "http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8"
+    },  
   
-{
+  {
     "name": "Olympic Channel US NBC",
     "channel": "3",
     "image": "https://www.nortex.com/wp-content/uploads/2017/09/oc-share-preview.jpg",
