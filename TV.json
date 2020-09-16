@@ -393,10 +393,10 @@
   }, 
   
   {
-    "name":"FOX动作", 
+    "name":"NHK华语视界", 
     "channel":"3",
     "image":"http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",
-    "urlId": "http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8"
+    "urlId": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8"
 
   },      
   
