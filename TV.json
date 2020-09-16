@@ -339,14 +339,31 @@
     "urlId": "http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8"
 
   },  
- 
-{
+  
+  {
+    "name":"港台電視31",
+    "channel":"3",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
+    "urlId": "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8"
+
+  },   
+
+  
+  {
+    "name":"港台電視32",
+    "channel":"3",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",
+    "urlId": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"
+
+  },    
+  {
     "name":"Thrill",
     "channel":"3",
     "image":"http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",
     "urlId": "http://45.126.83.51/qwr9ew/s/s34/index.m3u8"
 
-  },
+  },  
+  
   {
     "name":"My Channel 1",
     "channel":"3",
@@ -355,6 +372,8 @@
 
   },
   
+  
+
   {
     "name":"My Channel 2",
     "channel":"3",
