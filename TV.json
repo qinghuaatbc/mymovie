@@ -387,7 +387,7 @@
    {
     "name":"香港卫视",
     "channel":"3",
-    "image":"http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",
+    "image":"http://www.zyz98.com/uploads/hkstv.jpg",
     "urlId": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
 
   }, 
@@ -395,7 +395,7 @@
   {
     "name":"NHK华语视界", 
     "channel":"3",
-    "image":"http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",
+    "image":"https://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg",
     "urlId": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8"
 
   },      
