@@ -171,8 +171,8 @@
   "2298palmerstone" : {
     "address" : {
       "address" : "2298 palmerston st",
-      "city" : "west vancovuer",
-      "post " : "v5y6g7"
+      "city" : "west vancovuer"
+      
     },
     "alarm" : {
       "panel" : "dsc",
