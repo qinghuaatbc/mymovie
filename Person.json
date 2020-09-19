@@ -1,4 +1,11 @@
-{
-  "name": "wangqinghua",
-  "age":  51
-}
+[
+ "no1": {
+         "name": "wangqinghua",
+          "age":  51
+          },
+"no2": {
+         "name": "susan",
+          "age":  23
+          }
+
+]
