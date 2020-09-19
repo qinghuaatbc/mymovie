@@ -1,86 +1,109 @@
 [
   {
-    "name": "TVBS",
-    "channel": "3",
-    "image": "https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png",
-    "urlId": "http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8"
+    "name": "Forrest Gump",
+    "country": "USA",
+    "year": "1994",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/943529736040674356086635.mp4"
   },
 
-  {
-    "name":"Celestial Movies",
-     "channel":"3",
-     "image":"http://www.zyz98.com/uploads/cmclassic.jpg",
-    "urlId":"http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+ {
+    "name": "The Hunt For Red October",
+    "country": "USA",
+    "year": "1990",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Hunt_for_Red_October_movie_poster.png", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/292243725218634389975681.mp4"
+  },
+{
+    "name": "Basic Instinct",
+    "country": "USA",
+    "year": "1992",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Basic_Instinct.png", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/311489747735807117501575.mp4"
+  },
+ {
+    "name": "Taxi Driver",
+    "country": "USA",
+    "year": "1976",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/315269315076293033779979.mp4"
+  },
+ {
+    "name": "The Graduate",
+    "country": "USA",
+    "year": "1967",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/Graduateposter67.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/405104469153085399992694.mp4"
+  },
+ {
+    "name": "Gladiator",
+    "country": "USA",
+    "year": "2000",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/406811181425614215788847.mp4"
+  },
+ {
+    "name": "L.A. Confidential",
+    "country": "USA",
+    "year": "1997",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d8/La_confidential.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/429179710124139356287663.mp4"
   },
   {
-    "name":"澳亚卫视",
-    "channel":"3",
-    "image": "https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png",
-    "urlId": "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+    "name": "English Patient",
+    "country": "USA",
+    "year": "1996",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_English_Patient_Poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/436869735284621868902054.mp4"
   },
-  {
-    "name":"CBN",
-    "channel":"3",
-    "image": "https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",
-    "urlId":"http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8"
+ {
+    "name": "The Time Traveler's Wife",
+    "country": "USA",
+    "year": "2009",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Time_Traveler%27s_Wife_film_poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/737355319772302513295784.mp4"
   },
-  {
-    "name":"FTV News",
-    "channel":"3",
-    "image": "https://www.livenewsnow.com/wp-content/uploads/2015/03/FTV-News-1.jpg",
-    "urlId": "http://210.61.56.23/hls/ftvtv/index.m3u8"
+ {
+    "name": "Interstellar",
+    "country": "USA",
+    "year": "2014",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/852290897963706421457908.mp4"
   },
-  {
-    "name":"CBS",
-    "channel":"3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.png",
-     "urlId":"http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8"
+ {
+    "name": "Crossing Over",
+    "country": "USA",
+    "year": "2009",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Crossing_Over_%28film%29_cover.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/867299274270910568851049.mp4"
   },
-  {
-   "name": "港凤凰资讯",
-    "channel":"3",
-    "image":"http://www.tvbox.live/wp-content/uploads/2019/12/6962576de51ac85-150x150.jpg",
-    "urlId":"http://45.126.83.51/qwr9ew/s/s21/index2.m3u8"
+ {
+    "name": "Pretty Woman",
+    "country": "USA",
+    "year": "1990",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b6/Pretty_woman_movie.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/925416078002761510109214.mp4"
   },
-  {
-   "name": "台三立新闻HD",
-    "channel":"3",
-    "image": "https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",
-    "urlId":"http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8"
+ {
+    "name": "Air Force One",
+    "country": "USA",
+    "year": "1997",
+    "poster":"https://upload.wikimedia.org/wikipedia/en/2/2a/Air_Force_One_%28movie_poster%29.jpg",
+    "urlId":  "http://24.80.132.186:5080/LiveApp/streams/967534068330109063229364.mp4"
   },
-  {
-    "name":"CCTV-1",
-    "channel":"3",
-    "image": "https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",
-    "urlId":"http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8"
+ {
+    "name": "American Beauty",
+    "country": "USA",
+    "year": "1999",
+    "poster":"https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg",
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/973441657093510476100465.mp4"
   },
-  {
-    "name": "CCTV-2",
-     "channel":"3",
-     "image":"https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png",
-     "urlId":"http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8"
-
- },
-  {
-    "name":"CCTV-4",
-    "channel":"3",
-    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png",
-    "urlId":"http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8"
-
-  },
-  {
-   "name": "CCTV-5",
-    "channel":"3",
-    "image":"https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",
-    "urlId":"http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8"
-
-  },
-  {
-    "name":"CCTV-8",
-    "channel":"3",
-    "image":"https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png",
-    "urlId":"http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8"
-
+  
+   {
+    "name": "牧马人",
+    "country": "CHINA",
+    "year": "1982",
+    "poster":"https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/a/a2piw138rjfqfb1.jpg",
+    "urlId":  "http://24.80.132.186:5080/LiveApp/streams/310708590155404030949429.mp4"
   }
-
 ]
