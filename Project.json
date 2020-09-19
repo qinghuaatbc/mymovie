@@ -118,9 +118,9 @@
       }
     }
   },
-  "167&163w45" : {
+  "167 163w45" : {
     "address" : {
-      "address" : "167/163 w45     ave",
+      "address" : "167 163 w45 ave",
       "city" : "vancouver"
     },
     "alarm" : {
@@ -168,7 +168,7 @@
       }
     }
   },
-  "2298palmerstone" : {
+  "2298 palmerstone" : {
     "address" : {
       "address" : "2298 palmerston st",
       "city" : "west vancovuer"
@@ -664,8 +664,8 @@
   "950keyland" : {
     "address" : {
       "address" : "950 leyland St",
-      "city" : "west Vancouver",
-      "post" : "V563Y7"
+      "city" : "west Vancouver"
+    
     },
     "alarm" : {
       "panel" : "Dsc",
