@@ -6,21 +6,7 @@
     "urlId": "https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8"
      },    
 
-  {
-    "name": "CBC Vancouver",
-    "channel": "3",
-    "image": "https://static.wixstatic.com/media/9d4398_bb2c4bb09fd24881882b972fabcee390~mv2.jpg",
-    "urlId": "https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8"
-     },   
-  
-  {
-    "name": "CBC Toronto",
-    "channel": "3",
-    "image": "https://static.wixstatic.com/media/9d4398_bb2c4bb09fd24881882b972fabcee390~mv2.jpg",
-    "urlId": "https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8"
-     },    
-    
-  
+ 
   
   {
     "name": "AMG TV",
