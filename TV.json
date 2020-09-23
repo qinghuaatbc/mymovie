@@ -129,7 +129,14 @@
     "channel": "3",
     "image": "https://i.imgur.com/WlrcyMe.png",
     "urlId": "https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8"
- },    
+ },  
+  
+  {
+    "name": "VOA",
+    "channel": "3",
+    "image": "https://www.securefreesociety.org/wp-content/uploads/2019/07/voa.png",
+    "urlId": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"
+ },  
   
   {
     "name": "Fashion",
