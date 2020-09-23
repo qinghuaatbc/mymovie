@@ -312,7 +312,14 @@
     "urlId":"http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8"
 
   },
+  
+   {
+    "name":"CGTN",
+    "channel":"3",
+    "image":"https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png",
+    "urlId":"https://live.cgtn.com/1000/prog_index.m3u8"
 
+  },
  {
     "name":"东方卫视FHD",
     "channel":"3",
