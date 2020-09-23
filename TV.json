@@ -1,4 +1,11 @@
 [
+ {
+    "name": "Global News",
+    "channel": "3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",
+    "urlId": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
+     },      
+
   {
     "name": "CBC News",
     "channel": "3",
