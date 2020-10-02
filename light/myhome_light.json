@@ -2,17 +2,23 @@
  {
     "name":"living",
     "id":"64 23 e5 1",
-    "onOff":false
+    "onOff":false,
+    "top":1,
+    "left":1
     },
   {
     "name":"living",
     "id":"64 23 e5 1",
-    "onOff":false
-    },
+    "onOff":false,
+    "top":2,
+    "left": 2   
+  },
   
    {
     "name":"hall",
     "id":"64 23 e5 1",
-    "onOff": true
-    }
+    "onOff": true,
+     "top":3,
+    "left": 3  
+   }
 ]
