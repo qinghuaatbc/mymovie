@@ -1,6 +1,19 @@
 [
-{ "name":"wqh   }
+  {
+    "name":"family",
+    "id":"64 23 e5 1",
+    "onOff":false
+    },
 
-
-
+  {
+    "name":"living",
+    "id":"64 23 e5 1",
+    "onOff":false
+    },
+  
+   {
+    "name":"hall",
+    "id":"64 23 e5 1",
+    "onOff":true
+    },
 ]
