@@ -1,23 +1,9 @@
 [
-
-{
-    "name":"family",
+ {
+    "name":"living",
     "id":"64 23 e5 1",
-    "onOff":true
-    },  
-  
-  {
-    "name":"family",
-    "id":"64 23 e5 1",
-    "onOff":true
-    },  
-  
-  {
-    "name":"family",
-    "id":"64 23 e5 1",
-    "onOff":true
+    "onOff":false
     },
-
   {
     "name":"living",
     "id":"64 23 e5 1",
