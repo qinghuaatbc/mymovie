@@ -4,8 +4,8 @@
     "id":"64 23 e5 1",
     "onOff":false,
     "top": 2,
-    "left":1,
-    "image":""
+    "left":1
+  
   
  },
  
@@ -14,8 +14,8 @@
     "id":"64 23 e5 1",
     "onOff":false,
     "top": 2,
-    "left":2,   
-    "image":"" 
+    "left":2  
+ 
   } ,
   
    {
@@ -23,8 +23,8 @@
     "id":"64 23 e5 1",
     "onOff": true,
      "top": 3,
-    "left":3, 
-  "image":"" 
+    "left":3
+
  }
   
 
