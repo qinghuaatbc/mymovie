@@ -4,21 +4,25 @@
     "id":"64 23 e5 1",
     "onOff":false,
     "top": 2,
-    "left":1
+    "left":1,
+    "onImage":"https://pngimg.com/uploads/bulb/bulb_PNG1251.png",
+    "offImage":"https://toppng.com/uploads/preview/light-bulb-png-clip-art-incandescent-light-bulb-115629748973gtwxsd7df.png"
     },
   {
     "name":"living",
     "id":"64 23 e5 1",
     "onOff":false,
     "top": 2,
-    "left":2   
-  },
+    "left":2,   
+    "onImage":"https://pngimg.com/uploads/bulb/bulb_PNG1251.png",
+    "offImage":"https://toppng.com/uploads/preview/light-bulb-png-clip-art-incandescent-light-bulb-115629748973gtwxsd7df.png"  },
   
    {
     "name":"hall",
     "id":"64 23 e5 1",
     "onOff": true,
      "top": 3,
-    "left":3 
-   }
+    "left":3, 
+     "onImage":"https://pngimg.com/uploads/bulb/bulb_PNG1251.png",
+    "offImage":"https://toppng.com/uploads/preview/light-bulb-png-clip-art-incandescent-light-bulb-115629748973gtwxsd7df.png"   }
 ]
