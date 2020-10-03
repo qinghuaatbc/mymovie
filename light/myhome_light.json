@@ -3,22 +3,22 @@
     "name":"living",
     "id":"64 23 e5 1",
     "onOff":false,
-    "top":1,
-    "left":1
+    "top":200,
+    "left":200
     },
   {
     "name":"living",
     "id":"64 23 e5 1",
     "onOff":false,
-    "top":2,
-    "left": 2   
+    "top":300,
+    "left":300   
   },
   
    {
     "name":"hall",
     "id":"64 23 e5 1",
     "onOff": true,
-     "top":3,
-    "left": 3  
+     "top":400,
+    "left": 400  
    }
 ]
