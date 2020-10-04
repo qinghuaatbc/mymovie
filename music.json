@@ -1,4 +1,11 @@
 [
+ {
+    "name": "读你",
+    "singer": "费翔", 
+    "image": "https://img1.doubanio.com/img/musician/large/25157.jpg",
+    "urlId": "https://github.com/qinghuaatbc/mymovie/raw/master/song/%E8%B4%B9%E7%BF%94%E8%AF%BB%E4%BD%A0.mp3"
+  },  
+  
   {
     "name": "雨中徘徊",
     "singer": "费翔", 
