@@ -60,7 +60,11 @@
     "singer": "费翔",  
     "image": "https://img1.doubanio.com/img/musician/large/25157.jpg", 
     "urlId": "https://github.com/qinghuaatbc/mymovie/raw/master/song/%E8%B4%B9%E7%BF%94%20-%20%E6%88%91%E6%80%8E%E4%B9%88%E5%93%AD%E4%BA%86.mp3"
-  }
-  
-  
+  },
+   {
+    "name": "追梦人",
+    "singer": "陈淑桦",  
+    "image": "https://p1.itc.cn/images01/20200830/42b79cdf47634d05b5e82f36ea2a5d13.jpeg", 
+    "urlId": "https://github.com/qinghuaatbc/mymovie/raw/master/song/%E9%99%88%E6%B7%91%E6%A1%A6%E8%BF%BD%E6%A2%A6%E4%BA%BA.mp3"
+  },  
 ]
