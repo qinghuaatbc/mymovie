@@ -1,4 +1,12 @@
 [
+ 
+{
+    "name": "牵引",
+    "singer": "费翔", 
+    "image": "https://img1.doubanio.com/img/musician/large/25157.jpg",
+    "urlId": "https://github.com/qinghuaatbc/mymovie/raw/master/song/%E8%B4%B9%E7%BF%94%E7%89%B5%E5%BC%95.mp3"
+  },  
+ 
  {
     "name": "在雨中",
     "singer": "费翔", 
