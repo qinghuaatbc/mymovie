@@ -28,7 +28,7 @@
  },
  
  {
-    "name":"living1",
+    "name":"dining",
     "id":"64 23 e5 1",
     "onOff":false,
     "top": 2,
@@ -37,7 +37,7 @@
   } ,
   
    {
-    "name":"hall2",
+    "name":"theater",
     "id":"64 23 e5 1",
     "onOff": true,
      "top": 3,
