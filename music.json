@@ -1,6 +1,12 @@
 [
- 
-{
+ {
+    "name": "草帽歌",
+    "singer": "费翔", 
+    "image": "https://img1.doubanio.com/img/musician/large/25157.jpg",
+    "urlId": "https://www.dropbox.com/s/yowmbth9dg4fjrt/%E8%B4%B9%E7%BF%94-%E8%8D%89%E5%B8%BD%E6%AD%8C.mp3"
+  },  
+  },  
+ {
     "name": "牵引",
     "singer": "费翔", 
     "image": "https://img1.doubanio.com/img/musician/large/25157.jpg",
