@@ -1,5 +1,13 @@
 [
   {
+    "name": "Exodus",
+    "country": "USA",
+    "year": "1994",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Exodus_poster.jpg/220px-Exodus_poster.jpg", 
+    "urlId": "http://24.80.132.186:5080/LiveApp/streams/792835813319603812172609.mp4"
+  },
+  
+  {
     "name": "Forrest Gump",
     "country": "USA",
     "year": "1994",
