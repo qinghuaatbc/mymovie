@@ -105,7 +105,7 @@
   {
     "name": "Forrest Gump",
     "country": "USA",
-    "year": "1994",
+    "year":  "1994",
     "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg", 
     "urlId": "http://24.80.132.186:5080/LiveApp/streams/943529736040674356086635.mp4"
   },
